@@ -1,4 +1,5 @@
-const TILE_SIZE = 50 // Declare TILE_SIZE variable
+
+/*const TILE_SIZE = 50 // Declare TILE_SIZE variable
 const push = () => {} // Declare push function
 const image = (img, x, y, width, height) => {} // Declare image function
 const fill = (color) => {} // Declare fill function
@@ -7,7 +8,7 @@ const strokeWeight = (weight) => {} // Declare strokeWeight function
 const rect = (x, y, width, height) => {} // Declare rect function
 const noStroke = () => {} // Declare noStroke function
 const pop = () => {} // Declare pop function
-
+*/
 class Tile {
   constructor(x, y) {
     this.x = x
